@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "220747429498",
+    "firebase_url": "https://userseller-1beae-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "userseller-1beae",
+    "storage_bucket": "userseller-1beae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220747429498:android:b5d4fd6dc1a90bd7b76dc3",
+        "android_client_info": {
+          "package_name": "com.example.user_seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220747429498-oisi91ubfpg9dhj4q025jfea8bj4gg38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsKkunWOa1MybegVulFGPy6J5J3yquweM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220747429498-oisi91ubfpg9dhj4q025jfea8bj4gg38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
